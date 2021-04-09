@@ -15,5 +15,5 @@ Wenn Sie an Ihrem lokalen Computer arbeiten, können Sie Ihre Umgebung mit den f
 ### Visual Studio Code 
 1. Falls Sie Visual Studio Code noch nicht installiert haben, können Sie es [hier](https://code.visualstudio.com/Download) herunterladen. Starten Sie Visual Studio Code nach der Installation, suchen Sie auf der Registerkarte „Erweiterungen“ (STRG+UMSCHALT+X) nach der **Python**-Erweiterung von Microsoft, und installieren Sie sie.
 
-2. Öffnen Sie in Visual Studio Code ein neues Terminal, geben Sie **git clone https://github.com/MicrosoftLearning/mslearn-ai900** ein, und drücken Sie die *Eingabetaste*. 
+2. Öffnen Sie in Visual Studio Code ein neues Terminal, geben Sie **git clone https://github.com/MicrosoftLearning/AI-900DE-Microsoft-Azure-AI-Fundamentals** ein, und drücken Sie die *Eingabetaste*. 
 
