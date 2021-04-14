@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Erstellen eines Klassifizierungsmodells mit dem Azure Machine Learning-Designer'
 ---
