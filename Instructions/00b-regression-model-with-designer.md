@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Erstellen eines Regressionsmodells mithilfe des Azure Machine Learning-Designers'
 ---
