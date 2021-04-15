@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Erstellen eines Clustermodells mithilfe des Azure Machine Learning-Designers'
 ---

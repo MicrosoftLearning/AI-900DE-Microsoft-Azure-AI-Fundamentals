@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Einstieg in künstliche Intelligenz in Azure'
 ---

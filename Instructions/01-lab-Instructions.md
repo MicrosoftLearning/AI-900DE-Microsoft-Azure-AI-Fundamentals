@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Bildanalyse mit maschinellem Sehen'
 ---

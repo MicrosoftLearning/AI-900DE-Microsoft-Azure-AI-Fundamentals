@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Verwenden des automatisierten maschinellen Lernens in Azure Machine Learning'
 ---
