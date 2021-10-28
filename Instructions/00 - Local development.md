@@ -1,4 +1,4 @@
-﻿## Lokale Entwicklung 
+## Lokale Entwicklung 
 
 Wenn Sie an Ihrem lokalen Computer arbeiten, können Sie Ihre Umgebung mit den folgenden Schritten für diese Labs vorbereiten.  
 
@@ -13,7 +13,7 @@ Wenn Sie an Ihrem lokalen Computer arbeiten, können Sie Ihre Umgebung mit den f
 > pip install ipython jupyter matplotlib pillow requests azure-cognitiveservices-vision-computervision azure-cognitiveservices-vision-customvision azure-cognitiveservices-vision-face azure-cognitiveservices-language-textanalytics azure.cognitiveservices.speech azure_ai_formrecognizer 
 
 ### Visual Studio Code 
-1. Falls Sie Visual Studio Code noch nicht installiert haben, können Sie es [hier](https://code.visualstudio.com/Download) herunterladen. Starten Sie Visual Studio Code nach der Installation, suchen Sie auf der Registerkarte „Erweiterungen“ (STRG+UMSCHALT+X) nach der **Python**-Erweiterung von Microsoft, und installieren Sie sie.
+1. Falls Sie Visual Studio Code noch nicht installiert haben, können Sie es [hier herunterladen](https://code.visualstudio.com/Download). Starten Sie Visual Studio Code nach der Installation, suchen Sie auf der Registerkarte „Erweiterungen“ (STRG+UMSCHALT+X) nach der **Python**-Erweiterung von Microsoft, und installieren Sie sie.
 
 2. Öffnen Sie in Visual Studio Code ein neues Terminal, geben Sie **git clone https://github.com/MicrosoftLearning/AI-900DE-Microsoft-Azure-AI-Fundamentals** ein, und drücken Sie die *Eingabetaste*. 
 

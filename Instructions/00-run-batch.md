@@ -6,4 +6,4 @@
 
 ![Visual Studio Code-Symbol](./images/vscode.jpg)
 
-3. Nach dem Öffnen sollte das Projekt „MSLEARN-AI900“ im linken Bereich angezeigt werden. Diese Datei enthält die Labs für den Kurs. 
+3. Nach dem Öffnen sollte das Projekt „MSLEARN-AI900“ im linken Bereich angezeigt werden. Dieser Ordner enthält die Labs für den Kurs. 
