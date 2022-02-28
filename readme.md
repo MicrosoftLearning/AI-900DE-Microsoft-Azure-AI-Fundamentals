@@ -1,4 +1,12 @@
-﻿# Übungen zu den Azure KI-Grundlagen
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.de-DE) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.de-DE).
+# Übungen zu den Azure KI-Grundlagen
 
 Dieses Repository enthält die Übungen für das Praxislab zum Microsoft-Kurs [AI-900 *Microsoft Azure KI-Grundlagen*](https://docs.microsoft.com/de-de/learn/certifications/courses/ai-900t00) und den [Selbstlernkursen in Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Diese Labs begleiten die Lernmaterialen und erleichtern die praktische Anwendung der beschriebenen Technologien. 
 
